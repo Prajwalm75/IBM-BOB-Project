@@ -584,10 +584,11 @@ The MediCost AI interface is a single-page application served by Flask at `http:
 ### Figure 1 — Home Dashboard
 
 <p align="center">
-  <img src="c:\Users\SUSHMITHA M\Pictures\Screenshots\Screenshot 2026-09-23 021930.png" alt="MediCost AI — Home Dashboard" width="860" />
+ <img src="https://github.com/user-attachments/assets/6a52dd93-1e37-400f-9ab0-dd7904dc7ee2" 
+alt="MediCost AI — Home Dashboard" width="860" />
 </p>
 
-> _📌 Screenshot placeholder — save your screenshot as `screenshots/home.png` to display it here._
+
 
 **What it shows:**
 - Sticky navigation bar with smooth-scroll links and a **Get Prediction** CTA button
@@ -601,10 +602,10 @@ The MediCost AI interface is a single-page application served by Flask at `http:
 ### Figure 2 — Analytics Dashboard
 
 <p align="center">
-  <img src="c:\Users\SUSHMITHA M\Pictures\Screenshots\Screenshot 2026-09-23 021958.png" alt="MediCost AI — Analytics Dashboard" width="860" />
+  <img src="https://github.com/user-attachments/assets/8820a057-b6cf-4c18-b7f8-37ba4ae5990e" 
+alt="MediCost AI — Analytics Dashboard" width="860" />
 </p>
 
-> _📌 Screenshot placeholder — save your screenshot as `screenshots/analytics.png` to display it here._
 
 **What it shows:**
 - Four KPI summary cards: **1,337 Records · ₹13,279 Avg Cost · ₹63,770 Max Cost · 89.36% R²**
@@ -619,10 +620,9 @@ The MediCost AI interface is a single-page application served by Flask at `http:
 ### Figure 3 — Healthcare Cost Prediction Form
 
 <p align="center">
-  <img src="c:\Users\SUSHMITHA M\Pictures\Screenshots\Screenshot 2026-09-23 022100.png" alt="MediCost AI — Prediction Form" width="860" />
+  <img src="https://github.com/user-attachments/assets/393fd64b-ad06-405f-8fc0-cc582a1626be"
+alt="MediCost AI — Prediction Form" width="860" />
 </p>
-
-> _📌 Screenshot placeholder — save your screenshot as `screenshots/prediction.png` to display it here._
 
 **What it shows:**
 - Two-column **Health Profile Form** with all six inputs:
@@ -641,13 +641,12 @@ The MediCost AI interface is a single-page application served by Flask at `http:
 ---
 
 
-### Figure 5 — Machine Learning Model Performance
+### Figure 4 — Machine Learning Model Performance
 
 <p align="center">
-  <img src="c:\Users\SUSHMITHA M\Pictures\Screenshots\Screenshot 2026-09-23 022123.png" alt="MediCost AI — Model Performance" width="860" />
+  <img src="https://github.com/user-attachments/assets/c42d106a-c34c-427d-bce1-95697d6544c5"
+alt="MediCost AI — Model Performance" width="860" />
 </p>
-
-> _📌 Screenshot placeholder — save your screenshot as `screenshots/model-performance.png` to display it here._
 
 **What it shows:**
 - Four metric cards with real test-set values sourced from `model/evaluation_results.json`:
